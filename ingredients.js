@@ -1,7 +1,7 @@
 var ingredients = ["eggs", "milk", "flour", "sugar", "baking soda", "baking powder", "chocolate chips", "bananas"];
 
 // Write a for loop that prints out the contents of ingredients:
-console.log("While List")
+console.log("While List:")
 var i = 0;
 while (i < ingredients.length){
   console.log(ingredients[i]);
